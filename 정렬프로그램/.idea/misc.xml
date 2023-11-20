@@ -1,0 +1,6 @@
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (정렬프로그램)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (정렬프로그램)" project-jdk-type="Python SDK" />
+</project>
